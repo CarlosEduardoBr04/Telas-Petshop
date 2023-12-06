@@ -51,8 +51,6 @@ Contributions are welcome! If you wish to contribute to the project's developmen
 
 ## 📄 License
 
-This project is licensed under the [License Name]. Refer to the `LICENSE.md` file for details.
+This project is licensed under the License. Refer to the `LICENSE.md` file for details.
 
 ---
-
-Remember to customize sections marked with brackets `[ ]` with specific information about your project. Best of luck with your petshop management system!
