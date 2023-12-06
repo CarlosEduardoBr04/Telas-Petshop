@@ -47,7 +47,7 @@ Contributions are welcome! If you wish to contribute to the project's developmen
 
 ## 👨‍💻 Author
 
-- [CarlosEduardoBr04]
+- [CarlosEduardoBr04](https://github.com/CarlosEduardoBr04)
 
 ## 📄 License
 
