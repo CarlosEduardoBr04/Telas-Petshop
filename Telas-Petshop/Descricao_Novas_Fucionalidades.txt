@@ -1,0 +1,14 @@
+Importante: Ao iniciar o código, recomendo que você o execute através da "Tela de Navegação" e comece pela tela "Cadastro Cliente". Dessa forma, será possível criar automaticamente um banco de dados.
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tela de Cadastro de Cliente: Agora integrada com o banco de dados, com um fundo personalizado e um botão de redefinir na interface.
+
+Tela de Serviços: Também integrada com o banco de dados, possui um fundo personalizado e um botão de redefinir na interface.
+
+Tela de Cadastro de Animal: Integrada com o banco de dados, possui um fundo personalizado e um botão de redefinir na interface.
+
+Tela de Login: Integrada com o banco de dados e com um fundo personalizado.
+
+Tela de Feedback: Permite que o cliente insira informações para efetuar uma avaliação, as quais são salvas no banco de dados. Além disso, foi utilizado um recurso de rotação de imagens.
+
+Tela de Navegação: A posição vertical da tela de navegação foi alterada para horizontal. Também foram inseridos nomes em cada janela para indicar sua função.
